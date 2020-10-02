@@ -17,7 +17,7 @@ There are some general library requirements for the project and some which are s
 * `nltk`
 
 The library requirements specific to some methods are:
-* `keras` with `TensorFlow` backend for Logistic Regression, MLP, RNN (LSTM), and CNN.
+* `keras` with `TensorFlow` backend for Logistic Regression, NLP(Natural Language Processing), RNN (LSTM), and CNN.
 * `xgboost` for XGBoost.
 
 **Note**: It is recommended to use Anaconda distribution of Python.
